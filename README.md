@@ -10,8 +10,8 @@
 
 ## 📸 截图
 
-<img width="1342" height="934" alt="2" src="https://github.com/user-attachments/assets/bd1d0b8b-e691-4cc0-b952-82c007c86e9b" />
-<img width="672" height="962" alt="1" src="https://github.com/user-attachments/assets/614f4f56-7d7a-40d5-8184-ffa8d5285765" />
+<img width="442" height="334" alt="2" src="https://github.com/user-attachments/assets/bd1d0b8b-e691-4cc0-b952-82c007c86e9b" />
+<img width="272" height="362" alt="1" src="https://github.com/user-attachments/assets/614f4f56-7d7a-40d5-8184-ffa8d5285765" />
 
 
 
