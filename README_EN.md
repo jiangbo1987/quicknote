@@ -262,21 +262,3 @@ Issues and Pull Requests are welcome!
 
 MIT License - See [LICENSE](LICENSE) file for details.
 
----
-
-## 🙏 Acknowledgments
-
-- [Electron](https://www.electronjs.org/) - Cross-platform desktop app framework
-- [electron-builder](https://www.electron.build/) - Build tool
-
----
-
-## 📧 Contact
-
-- Project Homepage: https://quicknote.app
-- GitHub Issues: https://github.com/lilaoban/quicknote/issues
-- Email: [TBD]
-
----
-
-**Never let inspiration slip away** 💡
