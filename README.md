@@ -10,8 +10,9 @@
 
 ## 📸 截图
 
-<img width="343" height="475" alt="截屏2026-06-01 18 15 29" src="https://github.com/user-attachments/assets/bad36133-2634-4781-8be6-ea8801a385fd" />
-<img width="592" height="814" alt="screenshot-20260601-181559" src="https://github.com/user-attachments/assets/75cabe5f-8912-4ead-8ecd-f7f26b6d4b39" />
+<img width="1342" height="934" alt="2" src="https://github.com/user-attachments/assets/bd1d0b8b-e691-4cc0-b952-82c007c86e9b" />
+<img width="672" height="962" alt="1" src="https://github.com/user-attachments/assets/614f4f56-7d7a-40d5-8184-ffa8d5285765" />
+
 
 
 ---
