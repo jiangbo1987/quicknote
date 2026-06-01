@@ -10,9 +10,9 @@ A lightweight desktop floating note-taking tool that makes capturing ideas as na
 
 ## 📸 Screenshots
 
-<!-- Uncomment after adding screenshots
-![QuickNote Screenshot](screenshot.png)
--->
+<img width="442" height="334" alt="2" src="https://github.com/user-attachments/assets/bd1d0b8b-e691-4cc0-b952-82c007c86e9b" />
+<img width="272" height="362" alt="1" src="https://github.com/user-attachments/assets/614f4f56-7d7a-40d5-8184-ffa8d5285765" />
+
 
 ---
 
