@@ -258,7 +258,4 @@ Issues and Pull Requests are welcome!
 
 ---
 
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file for details.
-
+**Never let inspiration slip away** 💡
