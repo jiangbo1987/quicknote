@@ -10,9 +10,9 @@
 
 ## 📸 截图
 
-<!-- 添加截图后取消注释
-![QuickNote Screenshot](screenshot.png)
--->
+<img width="343" height="475" alt="截屏2026-06-01 18 15 29" src="https://github.com/user-attachments/assets/bad36133-2634-4781-8be6-ea8801a385fd" />
+<img width="592" height="814" alt="screenshot-20260601-181559" src="https://github.com/user-attachments/assets/75cabe5f-8912-4ead-8ecd-f7f26b6d4b39" />
+
 
 ---
 
